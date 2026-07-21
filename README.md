@@ -7,7 +7,7 @@ This repository contains my daily LeetCode practice.
 | Day | Problem No. | Problem | Difficulty |
 |-----|------------:|---------|------------|
 | Day 1 | 2235 | Add Two Integers | Easy |
-
+| Day 2 | 1929 | Concatenation of Array | Easy |
 ---
 
 ## Repository Structure
