@@ -9,6 +9,7 @@ This repository contains my daily LeetCode practice.
 | Day 1 | 2235 | Add Two Integers | Easy |
 | Day 2 | 1929 | Concatenation of Array | Easy |
 | Day 3 | 2469 | Convert the temperature | Easy |
+| Day 4 | 2413 | Smallest even multiple | Easy |
 ---
 
 ## Repository Structure
