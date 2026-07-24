@@ -11,6 +11,7 @@ This repository contains my daily LeetCode practice.
 | Day 3 | 2469 | Convert the temperature | Easy |
 | Day 4 | 2413 | Smallest even multiple | Easy |
 | Day 5 | 412 | Fizz Buzz | Easy |
+| Day 6 | 2455 | Average value of even numbers that are divisible by three | Easy |
 ---
 
 ## Repository Structure
