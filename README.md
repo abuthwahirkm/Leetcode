@@ -13,6 +13,7 @@ This repository contains my daily LeetCode practice.
 | Day 5 | 412 | Fizz Buzz | Easy |
 | Day 6 | 2455 | Average value of even numbers that are divisible by three | Easy |
 | Day 7 | 1614 | Maximum nesting depth of the parentheses | Easy |
+| Day 8 | 1952 | Three divisors | Easy |
 ---
 
 ## Repository Structure
