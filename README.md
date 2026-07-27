@@ -14,6 +14,7 @@ This repository contains my daily LeetCode practice.
 | Day 6 | 2455 | Average value of even numbers that are divisible by three | Easy |
 | Day 7 | 1614 | Maximum nesting depth of the parentheses | Easy |
 | Day 8 | 1952 | Three divisors | Easy |
+| Day 9 | 1108 | Defanging an ip addres | Easy |
 ---
 
 ## Repository Structure
