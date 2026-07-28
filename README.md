@@ -15,6 +15,7 @@ This repository contains my daily LeetCode practice.
 | Day 7 | 1614 | Maximum nesting depth of the parentheses | Easy |
 | Day 8 | 1952 | Three divisors | Easy |
 | Day 9 | 1108 | Defanging an ip addres | Easy |
+| Day 10 | 1 | Two sum | Easy |
 ---
 
 ## Repository Structure
