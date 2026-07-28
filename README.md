@@ -16,6 +16,8 @@ This repository contains my daily LeetCode practice.
 | Day 8 | 1952 | Three divisors | Easy |
 | Day 9 | 1108 | Defanging an ip addres | Easy |
 | Day 10 | 1 | Two sum | Easy |
+| Day 11 | 70 | Climbing Stairs | Easy |
+
 ---
 
 ## Repository Structure
