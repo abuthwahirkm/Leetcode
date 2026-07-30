@@ -20,6 +20,7 @@ This repository contains my daily LeetCode practice.
 | Day 12 | 2974 | Minimum number game | Eazy |
 | Day 13 | 709 | To lower case | Eazy |
 | Day 14 | 657 | Robot return to orgin | Eazy |
+| Day 15 | 2833 | Furthest point from orgin | Eazy |
 
 ---
 
