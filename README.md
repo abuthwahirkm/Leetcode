@@ -18,6 +18,7 @@ This repository contains my daily LeetCode practice.
 | Day 10 | 1 | Two sum | Easy |
 | Day 11 | 70 | Climbing Stairs | Easy |
 | Day 12 | 2974 | Minimum number game | Eazy |
+| Day 13 | 709 | To lower case | Eazy |
 
 ---
 
