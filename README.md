@@ -21,6 +21,7 @@ This repository contains my daily LeetCode practice.
 | Day 13 | 709 | To lower case | Eazy |
 | Day 14 | 657 | Robot return to orgin | Eazy |
 | Day 15 | 2833 | Furthest point from orgin | Eazy |
+| Day 16 | 9 | Palindromic Number | Eazy |
 
 ---
 
