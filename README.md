@@ -22,6 +22,7 @@ This repository contains my daily LeetCode practice.
 | Day 14 | 657 | Robot return to orgin | Eazy |
 | Day 15 | 2833 | Furthest point from orgin | Eazy |
 | Day 16 | 9 | Palindromic Number | Eazy |
+| Day 17 | 1281 | Subtract the product and sum of digits of an integer | Eazy |
 
 ---
 
