@@ -26,6 +26,7 @@ This repository contains my daily LeetCode practice.
 | Day 18 | 2535 | Difference between element sum and digit sum of an array | Eazy |
 | Day 19 | 2180 | Count integers with even digit sum | Eazy |
 | Day 20 | 3099 | Harshad number | Eazy |
+| Day 21 | 507 | Perfect number | Eazy |
 
 
 ---
