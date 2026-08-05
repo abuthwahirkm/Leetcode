@@ -28,6 +28,7 @@ This repository contains my daily LeetCode practice.
 | Day 20 | 3099 | Harshad number | Eazy |
 | Day 21 | 507 | Perfect number | Eazy |
 | Day 22 | 367 | Valid Perfect Square| Eazy |
+| Day 23 | 367 | Truncate sentance| Eazy |
 
 
 ---
