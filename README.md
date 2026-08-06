@@ -29,8 +29,8 @@ This repository contains my daily LeetCode practice.
 | Day 21 | 507 | Perfect number | Eazy |
 | Day 22 | 367 | Valid Perfect Square| Eazy |
 | Day 23 | 1816 | Truncate sentance| Eazy |
-| Day 24 | 557 | Reverse words in a string.py| Eazy |
-
+| Day 24 | 557 | Reverse words in a string| Eazy |
+| Day 25 | 2706 | BUY 2 choclate| Eazy |
 
 ---
 
