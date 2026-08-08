@@ -32,6 +32,8 @@ This repository contains my daily LeetCode practice.
 | Day 24 | 557 | Reverse words in a string| Eazy |
 | Day 25 | 2706 | BUY 2 choclate| Eazy |
 | Day 26 | 2894 | Divisible and non divisible sums difference| Eazy |
+| Day 27 | 520 | Detect capital| Eazy |
+
 
 ---
 
