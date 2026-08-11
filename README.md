@@ -33,7 +33,7 @@ This repository contains my daily LeetCode practice.
 | Day 25 | 2706 | BUY 2 choclate| Eazy |
 | Day 26 | 2894 | Divisible and non divisible sums difference| Eazy |
 | Day 27 | 520 | Detect capital| Eazy |
-| Day 28 |  | | Eazy |
+| Day 28 | 1662 | check if two string arrays are equivalent | Eazy |
 | Day 29 |  | | Eazy |
 | Day 30 | 1528 | Shuffle string| Eazy |
 
