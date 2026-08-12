@@ -36,6 +36,8 @@ This repository contains my daily LeetCode practice.
 | Day 28 | 1662 | check if two string arrays are equivalent | Eazy |
 | Day 29 |  | | Eazy |
 | Day 30 | 1528 | Shuffle string| Eazy |
+| Day 31 |  | | Eazy |
+
 
 
 ---
